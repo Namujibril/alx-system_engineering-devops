@@ -5,7 +5,3 @@ touch '*\\\'"Best School"\''\\*$?*****:)'
 
 # Add the text "Best School" and a new line to the file
 echo "Best School" > '*\\\'"Best School"\''\\*$?*****:)' 
-
-# Display success message
-echo "File created: '*\\\'\"Best School\"\\\'\\*\$?*****:)'."
-
