@@ -1,7 +1,2 @@
-#!/bin/bash
-
-# Create the file with the desired name
-touch '*\\\'"Best School"\''\\*$?*****:)' 
-
-# Add the text "Best School" and a new line to the file
+#!/bin/bash 
 echo "Best School" > '*\\\'"Best School"\''\\*$?*****:)' 
