@@ -1,7 +1,7 @@
 # 0x1A. Application server
 # Tasks
 ## Task 0. Set up development with Python
-mandatory
+mandatory tasks.
 
 Let’s serve what you built for <strong>AirBnB clone v2 - Web framework</strong>
 on web-01. This task is an exercise in setting up your development environment,
